@@ -1,11 +1,3 @@
-# SVN revision: $Rev: 25278 $
-# Date of last change: $LastChangedDate: 2011-02-21 14:51:08 +0000 (Mon, 21 Feb 2011) $
-# Last changed by: $LastChangedBy: fgochez $
-# 
-# Original author: fgochez
-# Copyright Mango Solutions, Chippenham, UK
-###############################################################################
-
 
 
 #' Sets the allowed file extensions for various NONMEM file types.  These are control, report, output tables, and 

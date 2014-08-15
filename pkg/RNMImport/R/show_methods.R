@@ -1,13 +1,10 @@
-# $LastChangedDate: 2010-02-04 14:45:07 +0000 (Thu, 04 Feb 2010) $
-# $LastChangedBy: fgochez $
-# $Rev: 15316 $
 
 
 #' Displays information about output data.  Utility function for use with show methods
 #' @param object NMProblem object 
 #' @title Show output table info
 #' @return none
-#' @author fgochez
+#' @author Mango Solutions
 
 showOutput <- function(object)
 {

@@ -1,10 +1,4 @@
-# SVN revision: $Rev: 25277 $
-# Date of last change: $LastChangedDate: 2011-02-21 14:43:16 +0000 (Mon, 21 Feb 2011) $
-# Last changed by: $LastChangedBy: fgochez $
-# 
-# Original author: fgochez
-# Copyright Mango Solutions, Chippenham, UK
-###############################################################################
+
 
 #' This function allows the user to create new variables derived from actual input or output data stored in a NONMEM object or a data.frame.
 #' The function "bins" the data in a user-chosen manner.  The new "binned" variable will be added to the "additionalVars" data frame of the object, or as a new column if the 

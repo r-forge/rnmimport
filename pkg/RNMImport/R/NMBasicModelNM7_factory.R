@@ -1,9 +1,3 @@
-# $LastChangedDate: 2013-05-21 02:53:00 +0100 (Tue, 21 May 2013) $
-# $LastChangedBy: jjxie@MANGO.LOCAL $
-# $Rev: 109701 $
-# 
-# Author: fgochez
-###############################################################################
 
 
 #' Constructs an NMBasicModel object from the control statements and output list statements that apply to it.
@@ -14,7 +8,7 @@
 #' @param lstContents [list] contents of an lst file that apply to this problem
 #' @param versionInfo [C, +] numeric vector that holds
 #' @return An NMBasicModel object holding the problem information
-#' @author fgochez
+#' @author Mango Solutions
 
 NMBasicModelNM7 <- function(controlStatements, path, reportContents, dropInputColumns = FALSE, 
 		versionInfo = c("major" = "VII", "minor" = 1), conFile=NULL)

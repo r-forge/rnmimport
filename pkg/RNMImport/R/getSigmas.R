@@ -1,10 +1,4 @@
-# SVN revision: $Rev: 25377 $
-# Date of last change: $LastChangedDate: 2011-02-22 14:45:16 +0000 (Tue, 22 Feb 2011) $
-# Last changed by: $LastChangedBy: fgochez $
-# 
-# Original author: fgochez
-# Copyright Mango Solutions, Chippenham, UK
-###############################################################################
+
 
 #' A generic function that extracts sigma estimates (and initial estimates and standard errors if specified) from a NONMEM object.
 #' Shrinkage values may also be retrieved for NONMEM 7 objects.

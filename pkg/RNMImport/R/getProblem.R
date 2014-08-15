@@ -1,10 +1,4 @@
-# SVN revision: $Rev: 25376 $
-# Date of last change: $LastChangedDate: 2011-02-22 14:24:24 +0000 (Tue, 22 Feb 2011) $
-# Last changed by: $LastChangedBy: fgochez $
-# 
-# Original author: fgochez
-# Copyright Mango Solutions, Chippenham, UK
-###############################################################################
+
 
 
 #' Retrieves a desired problem from a full NONMEM run object.

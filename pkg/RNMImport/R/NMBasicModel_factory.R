@@ -1,5 +1,3 @@
-# $Rev: 109701 $
-# $LastChangedDate: 2013-05-21 02:53:00 +0100 (Tue, 21 May 2013) $
 
 
 	
@@ -11,7 +9,7 @@
 #' @param lstContents [list] contents of an lst file that apply to this problem
 #' @param versionInfo [C, +] numeric vector that holds
 #' @return An NMBasicModel object holding the problem information
-#' @author fgochez
+#' @author Mango Solutions
 
 NMBasicModel <- function(controlStatements, path, reportContents, dropInputColumns = FALSE, 
 		versionInfo = c("major" = "VI", "minor" = 0))

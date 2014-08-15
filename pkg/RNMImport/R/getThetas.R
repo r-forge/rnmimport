@@ -1,14 +1,4 @@
-# SVN revision: $Rev: 109784 $
-# Date of last change: $LastChangedDate: 2013-05-24 03:26:00 +0100 (Fri, 24 May 2013) $
-# Last changed by: $LastChangedBy: jjxie@MANGO.LOCAL $
-# 
-# Original author: fgochez
-# Copyright Mango Solutions, Chippenham, UK
-###############################################################################
 
-# TODO: reduce amount of copy-paste code through refactoring
-
-# parameter-related items that can be extracted
 
 PARAMITEMS <- c("final", "initial", "stderrors")
 

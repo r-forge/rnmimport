@@ -1,10 +1,3 @@
-# SVN revision: $Rev: 25375 $
-# Date of last change: $LastChangedDate: 2011-02-22 14:11:10 +0000 (Tue, 22 Feb 2011) $
-# Last changed by: $LastChangedBy: fgochez $
-# 
-# Original author: fgochez
-# Copyright Mango Solutions, Chippenham, UK
-###############################################################################
 
 PARAMITEMS <- c("final", "initial", "stderrors")
 

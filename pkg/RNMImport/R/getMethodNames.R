@@ -1,10 +1,4 @@
-# SVN revision: $Rev: 115362 $
-# Date of last change: $LastChangedDate: 2014-08-11 09:14:50 +0100 (Mon, 11 Aug 2014) $
-# Last changed by: $LastChangedBy: jli@MANGO.LOCAL $
-# 
-# Original author: fgochez
-# Copyright Mango Solutions, Chippenham, UK
-###############################################################################
+
 
 
 #' Extracts estimation method names from a run or problem that used NONMEM 7.  These

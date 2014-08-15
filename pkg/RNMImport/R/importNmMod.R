@@ -1,15 +1,4 @@
-# SVN revision: $Rev: 109701 $
-# Date of last change: $LastChangedDate: 2013-05-21 02:53:00 +0100 (Tue, 21 May 2013) $
-# Last changed by: $LastChangedBy: jjxie@MANGO.LOCAL $
-# 
-# Original author: fgochez
-# Copyright Mango Solutions, Chippenham, UK
-###############################################################################
 
-#### FUNCTIONS in this file:
-## importNmMod
-## .importNmModSingleProblem
-## .mergeMissing
 
 #' Parses a NONMEM control file, and returns its contents as a list of parsed elements.  These elements
 #' will correspond to the actual control statements, e.g. $PK, $THETA, $PROBLEM, etc.  Some of the elements

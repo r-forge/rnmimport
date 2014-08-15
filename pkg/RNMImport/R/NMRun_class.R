@@ -1,9 +1,3 @@
-# Class definition for the main RNONMEM2 NONMEM run object
-# $Rev: 13254 $ 
-# $LastChangedDate: 2009-11-18 14:31:57 +0000 (Wed, 18 Nov 2009) $
-# 
-###############################################################################
-
 
 validity.NMRun <- function(object)
 {
@@ -41,7 +35,7 @@ setOldClass("Date")
 #' @slot numProblems [N,1] - Number of problems in the run
 #' @slot problems [list] - List of the actual problem results 
 #' @slot reportText Text of the lst output file
-#' @author fgochez
+#' @author Mango Solutions
 
 setClass(
 	"NMRun", 

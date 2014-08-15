@@ -1,12 +1,10 @@
-# $Rev: 25199 $
-# $LastChangedDate: 2011-02-18 17:27:25 +0000 (Fri, 18 Feb 2011) $
 
 #' Constructor for the NMSimModel class
 #' @param controlStatements Set of parsed control statements 
 #' @param path Path where the run is located
 #' @param reportContents Parsed contents of the report file
 #' @return Newly constructed object 
-#' @author fgochez
+#' @author Mango Solutions
 
 NMSimModel <- function(controlStatements, path, reportContents, versionInfo = c("major" = "VI", "minor" = 0))
 {
